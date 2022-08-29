@@ -1,0 +1,1 @@
+console.log("Testing HMR 3")
